@@ -6,7 +6,9 @@ Document: [NLP with Diaster Tweets](https://docs.google.com/document/d/1GyTcZbrM
 
 # Twitter Data Collection
 ## Getting twitter credentials for creating streaming application
-Login into dev.twitter.com, go to my applications -> Create new application. Fill the application details – Name, description, callback url, website url etc. Create access token. Once you’ve done this, make a note of your OAuth settings.
+Login into dev.twitter.com, go to Apps -> Create an App. You may need to apply for a Twitter developer account. 
+
+Fill the application details – Name, description, callback url, website url etc. Create access token. Once you’ve done this, make a note of your OAuth settings.
 * Consumer Key
 * Consumer Secret
 * OAuth Access Token
